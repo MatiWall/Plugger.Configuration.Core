@@ -8,5 +8,5 @@ export {
 }
 
 export type {
-    ConfigType
+    ConfigType, 
 }

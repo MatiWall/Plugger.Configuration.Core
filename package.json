@@ -1,6 +1,6 @@
 {
   "name": "@plugger/configuration-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git@github.com:MatiWall/Plugger.Configuration.Core.git",
@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/preset-env": "^7.26.0",
-    "@plugger/utils": "0.0.2",
+    "@plugger/utils": "file:/home/matias/Documents/projects/Plugger.Frontend.Utils",
     "fs": "^0.0.1-security",
     "typescript": "^5.7.2",
     "yaml": "^2.6.1",
